@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Azure Network<br>👯 I’m looking to collaborate on developing professional Minecraft servers <br>🌱 I’m currently learning Java & HTML<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on Azure Network, ForestBlock and CanadaMC<br>👯 I’m looking to collaborate on developing professional Minecraft servers <br>🌱 I’m currently learning Java & HTML<br>⚡ Fun fact - I am lazy but smart
 
 
 # 💻 Tech Stack:
