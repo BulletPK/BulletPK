@@ -1,13 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on Azure Network, ForestBlock and CanadaMC<br>👯 I’m looking to collaborate on developing professional Minecraft servers <br>🌱 I’m currently learning Java & HTML<br>⚡ Fun fact - I am lazy but smart
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BulletPK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BulletPK&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BulletPK&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BulletPK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Hello there! 👋
+
+I'm Bullet, a young developer from Manchester, UK.
+
+- 💻 I'm currently learning Java,
+- 📦 I play minecraft and develop discord bots for other people,
+- 🌏 I'm passionate in almost anything IT related,
+- 🍳 Additionally I love cooking,
+- 🎬 My favorite movie/tv show genre is: Comedy,
+- 🎮 When I'm not coding I'm likely playing Minecraft,
+- 📫 How to reach me: Discord: bulletpk,
+- ⚡ Fun fact about me: I like math.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
